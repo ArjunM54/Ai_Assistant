@@ -1,9 +1,12 @@
 streamlit
 pypdf
-faiss
-sentence_transformers
-sklearn
-google
-dotenv
+faiss-cpu
+sentence-transformers
+scikit-learn
+google-genai
+python-dotenv
 easyocr
 pillow
+PyMuPDF
+streamlit-mic-recorder
+pyttsx3
